@@ -95,7 +95,7 @@ Compliance frameworks: NIST AI RMF • EU AI Act • Anthropic RSP • Wassenaar
 
 - **Website:** [kroonen.ai](https://kroonen.ai)
 - **Email:** hello@kroonen.ai
-- **X:** [@AiKroonen](https://x.com/kroonen_ai)
+- **X:** [@kroonen_ai](https://x.com/kroonen_ai)
 - **Bluesky:** [@kroonen.ai](https://bsky.app/profile/kroonen.ai)
 
 ---
