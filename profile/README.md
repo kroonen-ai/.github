@@ -5,7 +5,6 @@
 We build secure, self-hosted AI solutions for organizations that demand complete control over their data. Zero telemetry. Zero cloud dependencies. Full data sovereignty.
 
 [![Website](https://img.shields.io/badge/Website-kroonen.ai-0070f3?style=flat-square)](https://kroonen.ai)
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square)](LICENSE)
 
 ---
 
