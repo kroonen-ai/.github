@@ -26,7 +26,7 @@ Kroonen AI specializes in enterprise AI infrastructure with a focus on privacy, 
 
 ## Projects
 
-### [Libre WebUI](https://github.com/kroonen/libre-webui)
+### [Libre WebUI](https://librewebui.org)
 
 Privacy-first web interface for local LLMs with complete Ollama integration.
 
