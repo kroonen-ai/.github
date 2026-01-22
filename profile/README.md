@@ -24,7 +24,7 @@ Kroonen AI specializes in enterprise AI infrastructure with a focus on privacy, 
 
 ---
 
-## Open Source Projects
+## Projects
 
 ### [Libre WebUI](https://github.com/kroonen/libre-webui)
 
@@ -49,11 +49,11 @@ AI-powered documentation assistant widget for any website.
 
 ```
 ┌─────────────────────────────────────────────────────────┐
-│                    Your Infrastructure                   │
-│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐     │
-│  │   Models    │  │    Data     │  │   Queries   │     │
-│  │  (Local)    │  │  (Local)    │  │  (Local)    │     │
-│  └─────────────┘  └─────────────┘  └─────────────┘     │
+│                    Your Infrastructure                  │
+│  ┌─────────────┐  ┌─────────────┐  ┌─────────────┐      │
+│  │   Models    │  │    Data     │  │   Queries   │      │
+│  │  (Local)    │  │  (Local)    │  │  (Local)    │      │
+│  └─────────────┘  └─────────────┘  └─────────────┘      │
 │                         │                               │
 │                    No External                          │
 │                    Transmission                         │
@@ -80,16 +80,6 @@ Compliance frameworks: NIST AI RMF • EU AI Act • Anthropic RSP • Wassenaar
 
 ---
 
-## Tech Stack
-
-![Astro](https://img.shields.io/badge/Astro-BC52EE?style=flat-square&logo=astro&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-
----
-
 ## Contact
 
 - **Website:** [kroonen.ai](https://kroonen.ai)
@@ -100,5 +90,5 @@ Compliance frameworks: NIST AI RMF • EU AI Act • Anthropic RSP • Wassenaar
 ---
 
 <p align="center">
-  <sub>Kroonen AI, Inc. • Dover, Delaware</sub>
+  <sub>Kroonen AI, Inc. - Dover, Delaware</sub>
 </p>
